@@ -1,0 +1,17 @@
+{
+	"compilerOptions": {
+		"newLine": "lf",
+		"lib": ["esnext", "dom"],
+		"esModuleInterop": true,
+		"allowSyntheticDefaultImports": true,
+		"strict": true,
+		"forceConsistentCasingInFileNames": false,
+		"noFallthroughCasesInSwitch": true,
+		"noImplicitReturns": true,
+		"noUnusedLocals": true,
+		"noUnusedParameters": true,
+		"downlevelIteration": true,
+		"strictPropertyInitialization": false
+	},
+	"include": ["src"]
+}

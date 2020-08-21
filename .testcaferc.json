@@ -1,0 +1,9 @@
+{
+	"assertionTimeout": 2000,
+	"hostname": "localhost",
+	"developmentMode": true,
+	"tsConfigPath": "./tsconfig.testcafe.json",
+	"screenshots": {
+		"takeOnFails": true
+	}
+}
